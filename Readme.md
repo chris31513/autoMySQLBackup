@@ -1,9 +1,12 @@
 ABOUT THIS REPOSITORY
 -----------------------------------------------------
-The initial repository is just a C&P from the sourceforge page for this script. In the initial import it was importad AS IS.
-Repected the License model and repecting the headers, but i cant find the email of the original author.
+The initial repository is just a C&P from the sourceforge page for this script (http://sourceforge.net/projects/automysqlbackup/). In the initial import it was importad AS IS.
+The original author is wipe_out (http://sourceforge.net/u/userid-877945/profile/).
+Im respecting the License model and repecting the headers, but theres no possible add fixes in sourceforge and i think that could be more easy nowadays have it on github.
 
 The idea is add more funcionalities or fixes needed.
+
+Any concern, just contact me
 
 AutomysqlBackup
 -------------------------
